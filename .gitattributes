@@ -1,0 +1,4 @@
+# Preserve the exported CSV bytes, including UTF-8 BOM and CRLF line endings.
+data/mcst/*.csv -text whitespace=cr-at-eol
+*.xlsx binary
+*.md text eol=lf
