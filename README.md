@@ -13,6 +13,24 @@ Management-contact research for all 3,806 records in the original Building and C
 
 The two email lists partition the complete CSV. They retain all 45 columns. The full dataset preserves the original 16 columns and original row order.
 
+## LinkedIn follow-up — 3 October 2026
+
+Every one of the **109 records with neither phone nor email** in the original research snapshot received two individual public LinkedIn searches. Promising matches received further role, company or project checks.
+
+| File | Rows | Contents |
+| --- | ---: | --- |
+| [LinkedIn follow-up workbook](data/mcst/mcst_linkedin_contact_followup.xlsx) | 109 records, 33 lead relationships | Records, Leads and Notes sheets with clickable source links |
+| [All 109 follow-up records](data/mcst/mcst_linkedin_contact_followup.csv) | 109 | Best available lead, outcome, evidence, limitations and the two search queries |
+| [All referral leads](data/mcst/mcst_linkedin_referral_leads.csv) | 33 | One person–MCST relationship per row, including alternatives |
+
+- **27 records have a referral lead; 82 remain unresolved.** There are **21 distinct people** across the 33 relationships. Subsidiary MCSTs and related developments can share a person.
+- Leads include facilities management, quantity surveying, project management, engineering, design and developer or managing-agent staff. Unknown titles, historical work and company-level referrals are labelled.
+- **3 records have a published referral email**: MCST 2173 has a selling-agent business email; 4956 and 4979 have a shared developer enquiries email. These are not confirmed MCST management mailboxes. Eight records have a published company/referral phone.
+- Savills' own announcements support its managing-agent appointments for Kopar at Newton and North Gaia. Winnie Wong is a company leadership referral; the listed number is the shared property-management office.
+- The suggested Tri Property appointment at Mooi Residences is from a third-party directory and requires confirmation. The original July BCA field is blank. MCST 0289 also carries a sourced warning about its historically listed agent's striking-off notice.
+
+Read **Relationship**, **Evidence period**, **Contact scope** and **Limitations** before using a lead. A public profile or former project role does not prove a current estate appointment. No outreach, private-contact lookup or email guessing was performed. The 3,806-row snapshot and its original email lists remain unchanged. This supplement covers the 109 no-contact records, not all 1,886 records without email.
+
 ## Coverage and interpretation
 
 - 3,697 records have at least one phone or email route; 109 have neither.
